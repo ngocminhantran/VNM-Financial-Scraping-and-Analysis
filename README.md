@@ -17,4 +17,12 @@ This project aims to analyze Vinamilk (VNM) financial performance and predict VN
 4. Visualize findings
 
 ### Visualization preview
-<img width="1440" alt="Screenshot 2023-05-10 at 17 00 18" src="https://github.com/ngocminhantran/VNM-Financial-Scraping-and-Analysis/assets/130781119/3069d41b-8812-4a1e-8c85-89f0d12ca0ad">
+#### Piotroski F-score
+<img width="303" alt="Screenshot 2023-07-04 at 04 05 30" src="https://github.com/ngocminhantran/VNM-Financial-Scraping-and-Analysis/assets/130781119/e1b4b05a-1d30-4081-a613-d2a1c8b7783f">
+
+#### Stock Price
+<img width="642" alt="Screenshot 2023-07-04 at 04 05 12" src="https://github.com/ngocminhantran/VNM-Financial-Scraping-and-Analysis/assets/130781119/1ccf3c7a-431b-43b0-8e56-7078a55a0eed">
+
+#### Financial Dashboard
+<img width="1440" alt="Screenshot 2023-05-10 at 16 58 58" src="https://github.com/ngocminhantran/VNM-Financial-Scraping-and-Analysis/assets/130781119/4ffb73ff-b374-4580-a40e-dd04d0c1bdd1">
+
